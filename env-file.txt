@@ -1,0 +1,8 @@
+# Discord Bot Configuration
+# Replace these values with your actual bot token and client ID
+
+# Your Discord Bot Token (from Discord Developer Portal)
+TOKEN=your_discord_bot_token_here
+
+# Your Discord Bot Client ID (from Discord Developer Portal)
+CLIENT_ID=your_client_id_here
